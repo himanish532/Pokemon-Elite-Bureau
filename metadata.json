@@ -1,0 +1,6 @@
+{
+  "name": "Pokemon Type Arena",
+  "description": "A formal Pokémon Type battle simulation and matchup arbitration interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
